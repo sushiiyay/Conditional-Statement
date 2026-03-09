@@ -17,5 +17,6 @@ int main(){
     string status;
 
     cout <<"Masukkan nilai Bahasa Inggris = ";
-    
+    cin >> nilBI;
+
 }
